@@ -1,12 +1,13 @@
 # -----------------------------------------------------------
 # Code by: Kelly Christensen
 # Dirty hack: Simon Gabay (sorry Kelly)
+# Fourbement transfomer par Floriane Goy
 # YAML script to customize the path to XML-ALTO files and the project's publication information.
 # -----------------------------------------------------------
 
 data:
   # specify the relative path of your data files
-  path:  "content/data" #"content/data"
+  path:  "/content/Notebooks/alto2tei/content/data" #"content/data"
 
 responsibility:
   text: "Transformation from ALTO4 to TEI by"
